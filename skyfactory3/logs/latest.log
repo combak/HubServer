@@ -1,0 +1,61 @@
+[01:33:45] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[01:34:37] [Server thread/INFO]: Loading properties
+[01:34:37] [Server thread/INFO]: Default game type: SURVIVAL
+[01:34:37] [Server thread/INFO]: Generating keypair
+[01:34:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:34:37] [Server thread/INFO]: Using epoll channel type
+[01:34:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:34:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:34:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:34:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:34:49] [Server thread/INFO]: Preparing level "world"
+[01:34:50] [Server thread/INFO]: Preparing start region for level 0
+[01:34:50] [Server thread/INFO]: Done (1.655s)! For help, type "help" or "?"
+[01:34:50] [Server thread/INFO]: Starting remote control listener
+[01:34:50] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
+[01:34:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3898ms behind, skipping 77 tick(s)
+[01:46:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2023ms behind, skipping 40 tick(s)
+[03:34:49] [Server thread/INFO]: Server Backup started!
+[03:34:52] [Thread-57/INFO]: Server backup done in 00:00:02! (66.1MB | 882.2MB)
+[05:34:49] [Server thread/INFO]: Server Backup started!
+[05:34:52] [Thread-82/INFO]: Server backup done in 00:00:02! (66.1MB | 882.2MB)
+[07:34:49] [Server thread/INFO]: Server Backup started!
+[07:34:52] [Thread-107/INFO]: Server backup done in 00:00:03! (66.1MB | 882.2MB)
+[09:34:49] [Server thread/INFO]: Server Backup started!
+[09:34:52] [Thread-132/INFO]: Server backup done in 00:00:02! (66.1MB | 882.2MB)
+[11:34:49] [Server thread/INFO]: Server Backup started!
+[11:34:52] [Thread-157/INFO]: Server backup done in 00:00:02! (66.1MB | 882.2MB)
+[12:29:15] [Server thread/INFO]: Ananasbusch[/172.17.0.1:37770] logged in with entity id 615686 at (6952.180743163156, 48.0, 7.841247887849617)
+[12:29:15] [Server thread/INFO]: Ananasbusch joined the game
+[12:34:36] [Server thread/INFO]: Ananasbusch lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[12:34:36] [Server thread/INFO]: Ananasbusch left the game
+[12:45:54] [Server thread/INFO]: Ananasbusch[/172.17.0.1:38206] logged in with entity id 672208 at (6970.128077240596, 48.0, -17.23579090499178)
+[12:45:54] [Server thread/INFO]: Ananasbusch joined the game
+[12:50:41] [Server thread/WARN]: Ananasbusch moved wrongly!
+[12:53:18] [Server thread/INFO]: Ananasbusch lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[12:53:18] [Server thread/INFO]: Ananasbusch left the game
+[13:34:49] [Server thread/INFO]: Server Backup started!
+[13:34:52] [Thread-184/INFO]: Server backup done in 00:00:02! (66.1MB | 882.2MB)
+[15:24:12] [Server thread/INFO]: Kayora[/172.17.0.1:42204] logged in with entity id 879946 at (5001.278353493701, 57.5, 8.653823300482603)
+[15:24:12] [Server thread/INFO]: Kayora joined the game
+[15:24:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2558ms behind, skipping 51 tick(s)
+[15:29:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2780ms behind, skipping 55 tick(s)
+[15:30:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2693ms behind, skipping 53 tick(s)
+[15:34:49] [Server thread/INFO]: Server Backup started!
+[15:34:52] [Thread-210/INFO]: Server backup done in 00:00:02! (66.1MB | 882.2MB)
+[15:40:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2685ms behind, skipping 53 tick(s)
+[15:41:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11833ms behind, skipping 236 tick(s)
+[15:49:56] [Server thread/INFO]: Ananasbusch[/172.17.0.1:42856] logged in with entity id 956936 at (6959.091164280838, 48.0, 4.2443660487270325)
+[15:49:56] [Server thread/INFO]: Ananasbusch joined the game
+[15:51:30] [Server thread/INFO]: Ananasbusch lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:51:30] [Server thread/INFO]: Ananasbusch left the game
+[16:21:20] [Server thread/INFO]: Kayora lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:21:20] [Server thread/INFO]: Kayora left the game
+[16:56:40] [Server thread/INFO]: Ananasbusch[/172.17.0.1:44540] logged in with entity id 1101599 at (6968.833987598255, 48.0, -1.1573272642892263)
+[16:56:40] [Server thread/INFO]: Ananasbusch joined the game
+[16:58:32] [Server thread/INFO]: Ananasbusch lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:58:32] [Server thread/INFO]: Ananasbusch left the game
+[17:34:49] [Server thread/INFO]: Server Backup started!
+[17:34:52] [Thread-237/INFO]: Server backup done in 00:00:02! (66.1MB | 882.2MB)
+[18:11:45] [Server thread/INFO]: Ananasbusch[/172.17.0.1:46454] logged in with entity id 1186763 at (6962.677939885313, 48.0, -19.90295577292378)
+[18:11:45] [Server thread/INFO]: Ananasbusch joined the game
