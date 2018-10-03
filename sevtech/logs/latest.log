@@ -1,409 +1,302 @@
-[11:03:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[11:03:04] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[11:03:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[11:03:04] [main/INFO] [FML]: Forge Mod Loader version 14.23.4.2707 for Minecraft 1.12.2 loading
-[11:03:04] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_171, running on Linux:amd64:4.15.0-24-generic, installed at /usr/lib/jvm/java-1.8-openjdk/jre
-[11:03:04] [main/INFO] [FML]: Searching /data/./mods for mods
-[11:03:04] [main/INFO] [FML]: Searching /data/./mods/1.12.2 for mods
-[11:03:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in AppleCore-mc1.12.2-3.1.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[11:03:04] [main/WARN] [FML]: The coremod AppleCore (squeek.applecore.AppleCore) is not signed!
-[11:03:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Aroma1997Core-1.12.2-1.3.0.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[11:03:04] [main/WARN] [FML]: The coremod aroma1997.core.coremod.CoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[11:03:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in astralsorcery-1.12.2-1.8.10.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[11:03:04] [main/WARN] [FML]: The coremod hellfirepvp.astralsorcery.core.AstralCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[11:03:04] [main/INFO] [FML]: [AstralCore] Initialized.
-[11:03:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in BetterFoliage-MC1.12-2.1.10.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[11:03:04] [main/WARN] [FML]: The coremod mods.betterfoliage.loader.BetterFoliageLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[11:03:04] [main/WARN] [FML]: The coremod BetterFoliageLoader (mods.betterfoliage.loader.BetterFoliageLoader) is not signed!
-[11:03:04] [main/INFO] [FML]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
-[11:03:04] [main/WARN] [FML]: The coremod com.bloodnbonesgaming.bnbgamingcore.core.BNBGamingCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[11:03:04] [main/INFO] [FML]: Loading tweaker codechicken.asm.internal.Tweaker from ChickenASM-1.12-1.0.2.7.jar
-[11:03:05] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12-0.3.0.15.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[11:03:05] [main/WARN] [FML]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[11:03:05] [main/WARN] [FML]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
-[11:03:05] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Farseek-1.12-2.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[11:03:05] [main/WARN] [FML]: The coremod farseek.core.FarseekCoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[11:03:05] [main/WARN] [FML]: The coremod FarseekCoreMod (farseek.core.FarseekCoreMod) is not signed!
-[11:03:05] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in foamfix-0.9.9.1-1.12.2-anarchy.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[11:03:05] [main/WARN] [FML]: The coremod pl.asie.foamfix.coremod.FoamFixCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[11:03:05] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.6.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[11:03:05] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[11:03:05] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
-[11:03:05] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.64-dev.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[11:03:05] [main/WARN] [FML]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[11:03:05] [main/WARN] [FML]: The coremod ivorius.ivtoolkit.IvToolkitLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[11:03:05] [main/WARN] [FML]: The coremod IvToolkit (ivorius.ivtoolkit.IvToolkitLoadingPlugin) is not signed!
-[11:03:05] [main/WARN] [FML]: The coremod micdoodle8.mods.miccore.MicdoodlePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[11:03:05] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
-[11:03:05] [main/ERROR] [FML]: The coremod api.player.forge.PlayerAPIPlugin is requesting minecraft version 1.12.1 and minecraft is 1.12.2. It will be ignored.
-[11:03:05] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Quark-r1.4-123.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[11:03:05] [main/WARN] [FML]: The coremod vazkii.quark.base.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[11:03:05] [main/WARN] [FML]: The coremod LoadingPlugin (vazkii.quark.base.asm.LoadingPlugin) is not signed!
-[11:03:05] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ResourceLoader-MC1.12.1-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[11:03:05] [main/WARN] [FML]: The coremod lumien.resourceloader.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[11:03:05] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in SmoothFont-1.12.2-1.15.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[11:03:05] [main/WARN] [FML]: The coremod bre.smoothfont.asm.CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[11:03:05] [main/WARN] [FML]: The coremod CorePlugin (bre.smoothfont.asm.CorePlugin) is not signed!
-[11:03:05] [main/WARN] [FML]: The coremod blusunrize.immersiveengineering.common.asm.IELoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[11:03:05] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[11:03:05] [main/INFO] [LaunchWrapper]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
-[11:03:05] [main/INFO] [LaunchWrapper]: Loading tweak class name codechicken.asm.internal.Tweaker
-[11:03:05] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[11:03:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[11:03:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[11:03:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[11:03:06] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[11:03:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[11:03:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[11:03:06] [main/INFO] [Aroma1997Core]: Finished data injection.
-[11:03:06] [main/INFO] [Aroma1997Core]: Finished data injection.
-[11:03:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[11:03:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[11:03:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[11:03:06] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:getASMTransformerClass:99]: Successfully Registered Transformer
-[11:03:07] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
-[11:03:07] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
-[11:03:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[11:03:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[11:03:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[11:03:07] [main/INFO] [LaunchWrapper]: Calling tweak class codechicken.asm.internal.Tweaker
-[11:03:07] [main/INFO] [STDOUT]: [codechicken.asm.internal.Tweaker:injectIntoClassLoader:30]: false
-[11:03:07] [main/INFO] [LaunchWrapper]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
-[11:03:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[11:03:07] [main/INFO] [FML]: [AstralTransformer] Loading patches...
-[11:03:07] [main/INFO] [FML]: [AstralTransformer] Initialized! Loaded 5 class patches!
-[11:03:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[11:03:07] [main/INFO] [BnBGamingCore]: Minecraft version is 1.12.2 and BNBGamingCore accepts versions 1.12, . It will be registered.
-[11:03:07] [main/INFO] [BnBGamingCore]: Minecraft version is 1.12.2 and BNBGamingCore accepts versions 1.12, . It will be registered.
-[11:03:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[11:03:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[11:03:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[11:03:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[11:03:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[11:03:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[11:03:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[11:03:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[11:03:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[11:03:08] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[11:03:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[11:03:08] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:110]: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
-[11:03:08] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:113]: Added INTERFACE: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
-[11:03:08] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:150]: Added METHOD: net.minecraft.world.World.foamfix_removeUnloadedEntities
-[11:03:08] [main/INFO] [FML]: [Quark ASM] Transforming WorldServer
-[11:03:08] [main/INFO] [FML]: [Quark ASM] Applying Transformation to method (Names [areAllPlayersAsleep, func_73056_e, g] Descriptor ()Z / ()Z)
-[11:03:08] [main/INFO] [FML]: [Quark ASM] Located Method, patching...
-[11:03:08] [main/INFO] [FML]: [Quark ASM] Located patch target node L0
-[11:03:08] [main/INFO] [FML]: [Quark ASM] Patch result: true
-[11:03:08] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.WorldServerRemovalPatch:apply:65]: Patched updateEntities in net/minecraft/world/WorldServer func_72939_s
-[11:03:08] [main/INFO] [FML]: [AstralTransformer] Transforming vp : net.minecraft.entity.EntityLivingBase with 2 patches!
-[11:03:08] [main/INFO] [FML]: [AstralTransformer] Applied patch PATCHKNOCKBACKEVENT
-[11:03:08] [main/INFO] [FML]: [AstralTransformer] Applied patch PATCHUPDATEELYTRA
-[11:03:08] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[11:03:08] [main/INFO] [BetterFps]: Patching net.minecraft.block.Block... (aow)
-[11:03:09] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:229]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
-[11:03:09] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:241]: Transforming net.minecraft.block.Block Finished.
-[11:03:09] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:126]: Spliced in METHOD: net.minecraft.block.state.BlockStateContainer.createState
-[11:03:09] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:126]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.equals
-[11:03:09] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:126]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.hashCode
-[11:03:09] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:173]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode
-[11:03:09] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:173]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode_calced
-[11:03:09] [main/INFO] [BetterFps]: Patching math utils with "RIVENS_HALF" algorithm
-[11:03:09] [main/INFO] [FML]: [AstralTransformer] Transforming aip : net.minecraft.item.ItemStack with 1 patches!
-[11:03:09] [main/INFO] [FML]: [AstralTransformer] Skipping PATCHMODIFYENCHANTMENTLEVELSTOOLTIP as it can't be applied for side SERVER
-[11:03:09] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:126]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.equals
-[11:03:09] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:126]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.hashCode
-[11:03:09] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:126]: Spliced in METHOD: net.minecraft.block.properties.PropertyInteger.hashCode
-[11:03:09] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:173]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode
-[11:03:09] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:173]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode_calced
-[11:03:09] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:126]: Spliced in METHOD: net.minecraft.tileentity.TileEntity.func_190559_a
-[11:03:09] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:126]: Spliced in METHOD: net.minecraft.block.BlockBed.func_189540_a
-[11:03:09] [main/INFO] [FML]: [Quark ASM] Transforming BlockPistonBase
-[11:03:09] [main/INFO] [FML]: [Quark ASM] Applying Transformation to method (Names [doMove, func_176319_a, a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z / (Lamu;Let;Lfa;Z)Z)
-[11:03:09] [main/INFO] [FML]: [Quark ASM] Located Method, patching...
-[11:03:09] [main/INFO] [FML]: [Quark ASM] Located patch target node ASTORE 11
-[11:03:09] [main/INFO] [FML]: [Quark ASM] Patch result: true
-[11:03:09] [main/INFO] [FML]: [Quark ASM] Applying Transformation to method (Names [canPush, func_185646_a, a] Descriptor (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;ZLnet/minecraft/util/EnumFacing;)Z / (Lawt;Lamu;Let;Lfa;ZLfa;)Z)
-[11:03:09] [main/INFO] [FML]: [Quark ASM] Located Method, patching...
-[11:03:09] [main/INFO] [FML]: [Quark ASM] Located patch target node INVOKEVIRTUAL aow.hasTileEntity (Lawt;)Z
-[11:03:09] [main/INFO] [FML]: [Quark ASM] Patch result: true
-[11:03:09] [main/INFO] [FML]: [Quark ASM] Transforming TileEntityPiston
-[11:03:09] [main/INFO] [FML]: [Quark ASM] Applying Transformation to method (Names [clearPistonTileEntity, func_145866_f, j] Descriptor ()V / ()V)
-[11:03:09] [main/INFO] [FML]: [Quark ASM] Located Method, patching...
-[11:03:09] [main/INFO] [FML]: [Quark ASM] Located patch target node INVOKEVIRTUAL amu.a (Let;Lawt;I)Z
-[11:03:09] [main/INFO] [FML]: [Quark ASM] Patch result: true
-[11:03:09] [main/INFO] [FML]: [Quark ASM] Applying Transformation to method (Names [update, func_73660_a, e] Descriptor ()V / ()V)
-[11:03:09] [main/INFO] [FML]: [Quark ASM] Located Method, patching...
-[11:03:09] [main/INFO] [FML]: [Quark ASM] Located patch target node INVOKEVIRTUAL amu.a (Let;Lawt;I)Z
-[11:03:09] [main/INFO] [FML]: [Quark ASM] Patch result: true
-[11:03:10] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityBeacon... (avh)
-[11:03:10] [main/INFO] [BetterFps]: Patching net.minecraft.block.BlockHopper... (arl)
-[11:03:10] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:75]: Replaced NEW for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
-[11:03:10] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:87]: Replaced INVOKESPECIAL for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
-[11:03:10] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityHopper... (avw)
-[11:03:10] [main/INFO] [FML]: [Quark ASM] Transforming EntityBoat
-[11:03:10] [main/INFO] [FML]: [Quark ASM] Applying Transformation to method (Names [attackEntityFrom, func_70097_a, a] Descriptor (Lnet/minecraft/util/DamageSource;F)Z / (Lur;F)Z)
-[11:03:10] [main/INFO] [FML]: [Quark ASM] Located Method, patching...
-[11:03:10] [main/INFO] [FML]: [Quark ASM] Located patch target node POP
-[11:03:10] [main/INFO] [FML]: [Quark ASM] Patch result: true
-[11:03:10] [main/INFO] [FML]: [Quark ASM] Applying Transformation to method (Names [onUpdate, func_70071_h_, B_] Descriptor ()V / ()V)
-[11:03:10] [main/INFO] [FML]: [Quark ASM] Located Method, patching...
-[11:03:10] [main/INFO] [FML]: [Quark ASM] Located patch target node L0
-[11:03:10] [main/INFO] [FML]: [Quark ASM] Patch result: true
-[11:03:11] [main/INFO] [BetterFps]: Patching net.minecraft.server.dedicated.DedicatedServer... (nz)
-[11:03:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[11:03:12] [Server thread/INFO] [FML]: MinecraftForge v14.23.4.2707 Initialized
-[11:03:12] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[11:03:12] [Server thread/INFO] [FML]: Replaced 1036 ore ingredients
-[11:03:12] [Server thread/INFO] [FML]: Searching /data/./mods for mods
-[11:03:12] [Server thread/INFO] [FML]: Searching /data/./mods/1.12.2 for mods
-[11:03:12] [Server thread/ERROR] [FML]: Unable to parse dependency for mod 'animalium' with dependency string 'after:BiomesOPlenty'. The modId 'BiomesOPlenty' must be all lowercase.
-[11:03:12] [Server thread/INFO] [FML]: Disabling mod antiqueatlasoverlay it is client side only.
-[11:03:12] [Server thread/WARN] [FML]: Mod aroma1997core is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.3.0.2
-[11:03:13] [Server thread/INFO] [FML]: Disabling mod betteradvancements it is client side only.
-[11:03:13] [Server thread/WARN] [FML]: Mod betterbuilderswands is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.11.1
-[11:03:13] [Server thread/INFO] [FML]: Disabling mod betterfoliage it is client side only.
-[11:03:13] [Server thread/WARN] [FML]: Mod cd4017be_lib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 6.2.4
-[11:03:13] [Server thread/INFO] [FML]: Disabling mod clienttweaks it is client side only.
-[11:03:13] [Server thread/WARN] [FML]: Mod codechickenlib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.1.8.341
-[11:03:13] [Server thread/INFO] [FML]: Disabling mod colouredtooltips it is client side only.
-[11:03:13] [Server thread/INFO] [FML]: Disabling mod controlling it is client side only.
-[11:03:13] [Server thread/WARN] [FML]: Mod cookingforblockheads is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 6.3.26
-[11:03:14] [Server thread/INFO] [FML]: Disabling mod ctgui it is client side only.
-[11:03:14] [Server thread/INFO] [FML]: Disabling mod ctm it is client side only.
-[11:03:14] [Server thread/INFO] [FML]: Disabling mod custommainmenu it is client side only.
-[11:03:14] [Server thread/WARN] [FML]: Mod cyclicmagic is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.15.8
-[11:03:14] [Server thread/INFO] [FML]: Disabling mod defaultoptions it is client side only.
-[11:03:14] [Server thread/WARN] [FML]: Mod emberroot is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.3.7
-[11:03:14] [Server thread/INFO] [FML]: Disabling mod enchdesc it is client side only.
-[11:03:14] [Server thread/WARN] [FML]: Mod enderstorage is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.4.3.130
-[11:03:14] [Server thread/INFO] [FML]: Disabling mod fbp it is client side only.
-[11:03:14] [Server thread/WARN] [FML]: Mod farmingforblockheads is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.1.17
-[11:03:14] [Server thread/WARN] [FML]: Mod farseek is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.3
-[11:03:14] [Server thread/WARN] [FML]: Mod microblockcbe is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.4.2.58
-[11:03:14] [Server thread/WARN] [FML]: Mod forgemultipartcbe is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.4.2.58
-[11:03:14] [Server thread/WARN] [FML]: Mod minecraftmultipartcbe is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.4.2.58
-[11:03:15] [Server thread/INFO] [FML]: Mod galacticrafttweaker is missing the required element 'name'. Substituting galacticrafttweaker
-[11:03:15] [Server thread/WARN] [FML]: Mod improvedbackpacks is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-1.2.0.3
-[11:03:15] [Server thread/WARN] [FML]: Mod indlog is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.3
-[11:03:15] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.40.824
-[11:03:15] [Server thread/INFO] [FML]: Disabling mod jmapstages it is client side only.
-[11:03:15] [Server thread/INFO] [FML]: Disabling mod justenoughpetroleum it is client side only.
-[11:03:15] [Server thread/WARN] [FML]: Mod kleeslabs is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 5.4.10
-[11:03:15] [Server thread/INFO] [FML]: Disabling mod mousetweaks it is client side only.
-[11:03:15] [Server thread/INFO] [FML]: Disabling mod neat it is client side only.
-[11:03:15] [Server thread/INFO] [FML]: Disabling mod norecipebook it is client side only.
-[11:03:15] [Server thread/WARN] [FML]: Mod samsocean is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.1
-[11:03:15] [Server thread/WARN] [FML]: Mod oreexcavation is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.4.118
-[11:03:15] [Server thread/ERROR] [FML]: Unable to parse dependency for mod 'playerskins' with dependency string 'after:BiomesOPlenty'. The modId 'BiomesOPlenty' must be all lowercase.
-[11:03:15] [Server thread/WARN] [FML]: Mod prospectors is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.1
-[11:03:15] [Server thread/WARN] [FML]: Mod realdrops is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.12
-[11:03:16] [Server thread/INFO] [FML]: Disabling mod resourceloader it is client side only.
-[11:03:16] [Server thread/WARN] [FML]: Mod storagenetwork is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-1.2.4
-[11:03:16] [Server thread/INFO] [FML]: Disabling mod smoothfont it is client side only.
-[11:03:16] [Server thread/WARN] [FML]: Mod streams is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.4.4
-[11:03:16] [Server thread/INFO] [FML]: Disabling mod tipthescales it is client side only.
-[11:03:16] [Server thread/INFO] [FML]: Disabling mod toastcontrol it is client side only.
-[11:03:16] [Server thread/WARN] [FML]: Mod translocators is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.5.0.70
-[11:03:16] [Server thread/INFO] [FML]: Disabling mod reauth it is client side only.
-[11:03:17] [Server thread/INFO] [FML]: Forge Mod Loader has identified 239 mods to load
-[11:03:17] [Server thread/WARN] [FML]: ****************************************
-[11:03:17] [Server thread/WARN] [FML]: * The API BetterWithModsAPI from source /data/./mods/Quark-r1.4-123.jar is loaded from an incompatible classloader. THIS WILL NOT WORK!
-[11:03:17] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.ModAPIManager$APIContainer.validate(ModAPIManager.java:114)
-[11:03:17] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.ModAPIManager.registerDataTableAndParseAPI(ModAPIManager.java:174)
-[11:03:17] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.ModAPIManager.manageAPI(ModAPIManager.java:232)
-[11:03:17] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:567)
-[11:03:17] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:97)
-[11:03:17] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:332)...
-[11:03:17] [Server thread/WARN] [FML]: ****************************************
-[11:03:17] [Server thread/WARN] [FML]: ****************************************
-[11:03:17] [Server thread/WARN] [FML]: * The API BetterWithModsAPI from source /data/./mods/Quark-r1.4-123.jar is loaded from an incompatible classloader. THIS WILL NOT WORK!
-[11:03:17] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.ModAPIManager$APIContainer.validate(ModAPIManager.java:114)
-[11:03:17] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.ModAPIManager.registerDataTableAndParseAPI(ModAPIManager.java:174)
-[11:03:17] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.ModAPIManager.manageAPI(ModAPIManager.java:232)
-[11:03:17] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:567)
-[11:03:17] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:97)
-[11:03:17] [Server thread/WARN] [FML]: *  at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:332)...
-[11:03:17] [Server thread/WARN] [FML]: ****************************************
-[11:03:17] [Server thread/INFO] [FML]: Found mod(s) [modularrouters] containing declared API package team.chisel.ctm.api (owned by ctm) without associated API reference
-[11:03:17] [Server thread/INFO] [FML]: Found mod(s) [pneumaticcraft] containing declared API package team.chisel.ctm.api (owned by ctm) without associated API reference
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for movillages: assets/movillages/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for actuallybaubles: assets/actuallybaubles/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for examplemod: assets/examplemod/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for appleskin: assets/appleskin/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for armoreablemobs: assets/armoreablemobs/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for aroma1997core: assets/aroma1997core/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for buildcraftbuilders: assets/buildcraftbuilders/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for buildcraftcore: assets/buildcraftcore/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for buildcraftlib: assets/buildcraftlib/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for buildcraftfactory: assets/buildcraftfactory/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for buildcraftrobotics: assets/buildcraftrobotics/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for buildcraftsilicon: assets/buildcraftsilicon/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for buildcrafttransport: assets/buildcrafttransport/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for caliper: assets/caliper/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for chameleon: assets/chameleon/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for clumps: assets/clumps/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for codechickenlib: assets/codechickenlib/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for contenttweaker: assets/contenttweaker/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for craftstudioapi: assets/craftstudioapi/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for crafttweaker: assets/crafttweaker/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for crafttweakerjei: assets/crafttweakerjei/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for despawningspawners: assets/despawningspawners/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for farseek: assets/farseek/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for fastbench: assets/fastbench/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for foamfix: assets/foamfix/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for microblockcbe: assets/microblockcbe/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for forgemultipartcbe: assets/forgemultipartcbe/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for minecraftmultipartcbe: assets/minecraftmultipartcbe/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for galacticrafttweaker: assets/galacticrafttweaker/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for gobblecore: assets/gobblecore/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for harvest: assets/harvest/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for incontrol: assets/incontrol/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for kleeslabs: assets/kleeslabs/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for lttweaker: assets/lttweaker/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for mantle: assets/mantle/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for mcjtylib_ng: assets/mcjtylib_ng/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for mercurius: assets/mercurius/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for mjrlegendslib: assets/mjrlegendslib/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for mobstages: assets/mobstages/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for modtweaker: assets/modtweaker/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for morpheus: assets/morpheus/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for mpbasic: assets/mpbasic/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for mtlib: assets/mtlib/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for multiblockstages: assets/multiblockstages/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for mystagradcompat: assets/mystagradcompat/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for noworldgen5you: assets/noworldgen5you/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for samsocean: assets/samsocean/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for orestages: assets/orestages/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for placebo: assets/placebo/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for quickleafdecay: assets/quickleafdecay/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for realdrops: assets/realdrops/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for redstoneflux: assets/redstoneflux/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for roadrunner: assets/roadrunner/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for sevtweaks: assets/sevtweaks/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for spatialservermod: assets/spatialservermod/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for stg: assets/stg/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for streams: assets/streams/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for sasit: assets/sasit/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for teslacorelib_registries: assets/teslacorelib_registries/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for thirstybottles: assets/thirstybottles/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for tinkerstages: assets/tinkerstages/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for togetherforever: assets/togetherforever/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for tothebatpoles: assets/tothebatpoles/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for triumph: assets/triumph/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for universalmodifiers: assets/universalmodifiers/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for wailastages: assets/wailastages/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for wanionlib: assets/wanionlib/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for watercontrolextreme: assets/watercontrolextreme/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for wildcrops: assets/wildcrops/lang/en_us.lang
-[11:03:17] [Server thread/WARN] [FML]: Missing English translation for ynot: assets/ynot/lang/en_us.lang
-[11:03:17] [Server thread/INFO] [FML]: FML has found a non-mod file BetterAdvancements-1.12.2-0.0.7.42.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[11:03:17] [Server thread/INFO] [FML]: FML has found a non-mod file BetterFoliage-MC1.12-2.1.10.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[11:03:17] [Server thread/INFO] [FML]: FML has found a non-mod file ClientTweaks_1.12.2-3.1.8.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[11:03:17] [Server thread/INFO] [FML]: FML has found a non-mod file ColouredTooltips-1.12.2-1.0.4.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[11:03:17] [Server thread/INFO] [FML]: FML has found a non-mod file Controlling-3.0.6.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[11:03:17] [Server thread/INFO] [FML]: FML has found a non-mod file CTM-MC1.12-0.3.0.15.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[11:03:17] [Server thread/INFO] [FML]: FML has found a non-mod file CustomMainMenu-MC1.12.2-2.0.8.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[11:03:17] [Server thread/INFO] [FML]: FML has found a non-mod file DefaultOptions_1.12.2-9.2.7.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[11:03:17] [Server thread/INFO] [FML]: FML has found a non-mod file EnchantmentDescriptions-1.12.2-1.1.8.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[11:03:17] [Server thread/INFO] [FML]: FML has found a non-mod file FancyBlockParticles-1.12.x-2.4.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[11:03:17] [Server thread/INFO] [FML]: FML has found a non-mod file JourneyMapStages-1.12.2-1.0.3.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[11:03:17] [Server thread/INFO] [FML]: FML has found a non-mod file JustEnoughPetroleum-0.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[11:03:17] [Server thread/INFO] [FML]: FML has found a non-mod file MouseTweaks-2.8-mc1.12.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[11:03:17] [Server thread/INFO] [FML]: FML has found a non-mod file Neat 1.4-15.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[11:03:17] [Server thread/INFO] [FML]: FML has found a non-mod file noRecipeBook_v1.2.2formc1.12.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[11:03:17] [Server thread/INFO] [FML]: FML has found a non-mod file ResourceLoader-MC1.12.1-1.5.3.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[11:03:17] [Server thread/INFO] [FML]: FML has found a non-mod file SmoothFont-1.12.2-1.15.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[11:03:17] [Server thread/INFO] [FML]: FML has found a non-mod file TipTheScales-1.12.2-1.0.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[11:03:17] [Server thread/INFO] [FML]: FML has found a non-mod file Toast Control-1.12.2-1.6.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[11:03:17] [Server thread/INFO] [FML]: FML has found a non-mod file reauth-3.6.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[11:03:26] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, ivtoolkit, micdoodlecore, smoothfontcore, bnbgamingcore, foamfixcore, movillages, charcoalblock, acintegration, abyssalcraft, actuallyadditions, actuallybaubles, advancedmortars, animalium, antiqueatlas, examplemod, applecore, appleskin, appliedenergistics2, armoreablemobs, aroma1997core, astikoor, astralsorcery, autoreglib, base, baubles, bdlib, bedrockbgone, betterwithaddons, betterbuilderswands, betterwithmods, bibliocraft, bloodmagic, bnbgaminglib, bonsaitrees, bookshelf, buildcraftbuilders, buildcraftcore, buildcraftlib, buildcraftfactory, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, caliper, car, carryon, cd4017be_lib, ceramics, chameleon, chargers, chisel, chiselsandbits, clumps, codechickenlib, commoncapabilities, compactmachines3, conarm, contenttweaker, cookingforblockheads, craftstudioapi, crafttweaker, crafttweakerjei, cucumber, cyclicmagic, cyclopscore, darkutils, death_compass, despawningspawners, dimensionalcontrol, dimstages, dungpipe, elevatorid, emberroot, enderstorage, enderutilities, environmentaltech, extendedcrafting, extraplanets, farmingforblockheads, farseek, fastbench, fat_cat, ferdinandsflowers, findme, foamfix, forgelin, microblockcbe, forgemultipartcbe, minecraftmultipartcbe, galacticraftplanets, galacticraftcore, galacticrafttweaker, gamestages, advgenerators, geolosys, gobblecore, guideapi, harvest, horsepower, huntingdim, waila, immcraft, immersivepetroleum, immersivetech, improvedbackpacks, incontrol, indlog, industrialforegoing, infoaccessories, integrateddynamics, integrateddynamicscompat, inventorytweaks, ironbackpacks, ironchest, ironjetpacks, itemstages, jei, journeymap, jarm, jaff, justthetips, kleeslabs, lttweaker, magma_monsters, mantle, mcjtylib_ng, mekanism, mercurius, mjrlegendslib, mobends, mob_grinding_utils, mobstages, modtweaker, modularrouters, modularmachinery, morpheus, mpbasic, mputils, mtlib, multiblockstages, mundaneredstone, mystagradcompat, mysticalagradditions, mysticalagriculture, natura, naturescompass, nex, nei, noworldgen5you, nutrition, samsocean, oeintegration, oreexcavation, orestages, overloaded, pickletweaks, placebo, playerskins, pneumaticcraft, poweradapters, prestige, primalchests, primal, primal_tech, progressiontweaks, prospectors, quantumstorage, quark, quickleafdecay, rangedpumps, realdrops, reborncore, rebornstorage, recipestages, reccomplex, redstoneflux, refinedstorage, refinedstorageaddons, rftools, rftoolscontrol, roadrunner, rustic, scannable, sevtweaks, sev_tweaks_npc, simpleautorun, simplegenerators, storagenetwork, simplyarrows, spartanshields, spatialservermod, stevescarts, stg, storagedrawers, streams, sasit, supersoundmuffler, tallgates, tconstruct, teslacorelib, teslacorelib_registries, beneath, thebetweenlands, thirstybottles, tcomplement, tinkerstages, tinkertoolleveling, togetherforever, tombmanygraves, totemic, tothebatpoles, translocators, traverse, triumph, trumpetskeleton, tumbleweed, twilightforest, uppers, universalmodifiers, valkyrielib, vc, vtt, waddles, wailastages, wanionlib, watercontrolextreme, waterstrainer, wawla, weirdinggadget, wildcrops, witherskelefix, wopper, xnet, ynot, yoyos, immersiveengineering] at CLIENT
-[11:03:26] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, ivtoolkit, micdoodlecore, smoothfontcore, bnbgamingcore, foamfixcore, movillages, charcoalblock, acintegration, abyssalcraft, actuallyadditions, actuallybaubles, advancedmortars, animalium, antiqueatlas, examplemod, applecore, appleskin, appliedenergistics2, armoreablemobs, aroma1997core, astikoor, astralsorcery, autoreglib, base, baubles, bdlib, bedrockbgone, betterwithaddons, betterbuilderswands, betterwithmods, bibliocraft, bloodmagic, bnbgaminglib, bonsaitrees, bookshelf, buildcraftbuilders, buildcraftcore, buildcraftlib, buildcraftfactory, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, caliper, car, carryon, cd4017be_lib, ceramics, chameleon, chargers, chisel, chiselsandbits, clumps, codechickenlib, commoncapabilities, compactmachines3, conarm, contenttweaker, cookingforblockheads, craftstudioapi, crafttweaker, crafttweakerjei, cucumber, cyclicmagic, cyclopscore, darkutils, death_compass, despawningspawners, dimensionalcontrol, dimstages, dungpipe, elevatorid, emberroot, enderstorage, enderutilities, environmentaltech, extendedcrafting, extraplanets, farmingforblockheads, farseek, fastbench, fat_cat, ferdinandsflowers, findme, foamfix, forgelin, microblockcbe, forgemultipartcbe, minecraftmultipartcbe, galacticraftplanets, galacticraftcore, galacticrafttweaker, gamestages, advgenerators, geolosys, gobblecore, guideapi, harvest, horsepower, huntingdim, waila, immcraft, immersivepetroleum, immersivetech, improvedbackpacks, incontrol, indlog, industrialforegoing, infoaccessories, integrateddynamics, integrateddynamicscompat, inventorytweaks, ironbackpacks, ironchest, ironjetpacks, itemstages, jei, journeymap, jarm, jaff, justthetips, kleeslabs, lttweaker, magma_monsters, mantle, mcjtylib_ng, mekanism, mercurius, mjrlegendslib, mobends, mob_grinding_utils, mobstages, modtweaker, modularrouters, modularmachinery, morpheus, mpbasic, mputils, mtlib, multiblockstages, mundaneredstone, mystagradcompat, mysticalagradditions, mysticalagriculture, natura, naturescompass, nex, nei, noworldgen5you, nutrition, samsocean, oeintegration, oreexcavation, orestages, overloaded, pickletweaks, placebo, playerskins, pneumaticcraft, poweradapters, prestige, primalchests, primal, primal_tech, progressiontweaks, prospectors, quantumstorage, quark, quickleafdecay, rangedpumps, realdrops, reborncore, rebornstorage, recipestages, reccomplex, redstoneflux, refinedstorage, refinedstorageaddons, rftools, rftoolscontrol, roadrunner, rustic, scannable, sevtweaks, sev_tweaks_npc, simpleautorun, simplegenerators, storagenetwork, simplyarrows, spartanshields, spatialservermod, stevescarts, stg, storagedrawers, streams, sasit, supersoundmuffler, tallgates, tconstruct, teslacorelib, teslacorelib_registries, beneath, thebetweenlands, thirstybottles, tcomplement, tinkerstages, tinkertoolleveling, togetherforever, tombmanygraves, totemic, tothebatpoles, translocators, traverse, triumph, trumpetskeleton, tumbleweed, twilightforest, uppers, universalmodifiers, valkyrielib, vc, vtt, waddles, wailastages, wanionlib, watercontrolextreme, waterstrainer, wawla, weirdinggadget, wildcrops, witherskelefix, wopper, xnet, ynot, yoyos, immersiveengineering] at SERVER
-[11:03:28] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse craftingtweaksIntegration; missing dependency: craftingtweaks
-[11:03:28] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse theoneprobeIntegration; missing dependency: theoneprobe
-[11:03:28] [Server thread/INFO] [tconstruct]: Preparing to take over the world
-[11:03:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `actuallyadditions` for name `magnet_ring_bauble`, expected `actuallybaubles`. This could be a intended override, but in most cases indicates a broken mod.
-[11:03:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `actuallyadditions` for name `potion_ring_advanced_bauble`, expected `actuallybaubles`. This could be a intended override, but in most cases indicates a broken mod.
-[11:03:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `actuallyadditions` for name `battery_bauble`, expected `actuallybaubles`. This could be a intended override, but in most cases indicates a broken mod.
-[11:03:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `actuallyadditions` for name `battery_double_bauble`, expected `actuallybaubles`. This could be a intended override, but in most cases indicates a broken mod.
-[11:03:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `actuallyadditions` for name `battery_triple_bauble`, expected `actuallybaubles`. This could be a intended override, but in most cases indicates a broken mod.
-[11:03:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `actuallyadditions` for name `battery_quadruple_bauble`, expected `actuallybaubles`. This could be a intended override, but in most cases indicates a broken mod.
-[11:03:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `actuallyadditions` for name `battery_quintuple_bauble`, expected `actuallybaubles`. This could be a intended override, but in most cases indicates a broken mod.
-[11:03:28] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:126]: Spliced in METHOD: net.minecraftforge.common.property.ExtendedBlockState.createState
-[11:03:29] [Server thread/INFO] [FML]: [Quark ASM] Transforming ContainerWorkbench
-[11:03:29] [Server thread/INFO] [FML]: [Quark ASM] Applying Transformation to method (Names [transferStackInSlot, func_82846_b, b] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack; / (Laed;I)Laip;)
-[11:03:29] [Server thread/INFO] [FML]: [Quark ASM] Located Method, patching...
-[11:03:29] [Server thread/INFO] [FML]: [Quark ASM] Located patch target node BIPUSH 10
-[11:03:29] [Server thread/INFO] [FML]: [Quark ASM] Located patch target node BIPUSH 46
-[11:03:29] [Server thread/INFO] [FML]: [Quark ASM] Located patch target node BIPUSH 10
-[11:03:29] [Server thread/INFO] [FML]: [Quark ASM] Located patch target node BIPUSH 37
-[11:03:29] [Server thread/INFO] [FML]: [Quark ASM] Located patch target node BIPUSH 37
-[11:03:29] [Server thread/INFO] [FML]: [Quark ASM] Adding invokestatic to 37/5
-[11:03:29] [Server thread/INFO] [FML]: [Quark ASM] Located patch target node BIPUSH 46
-[11:03:29] [Server thread/INFO] [FML]: [Quark ASM] Adding invokestatic to 46/6
-[11:03:29] [Server thread/INFO] [FML]: [Quark ASM] Patch result: true
-[11:03:29] [Server thread/INFO] [Pulsar-natura]: Skipping Pulse craftingtweaksIntegration; missing dependency: craftingtweaks
-[11:03:30] [Server thread/INFO] [FML]: [AstralTransformer] Transforming axw : net.minecraft.world.chunk.Chunk with 1 patches!
-[11:03:30] [Server thread/INFO] [FML]: [AstralTransformer] Applied patch PATCHBLOCKMODIFY
-[11:03:30] [Server thread/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:75]: Replaced NEW for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
-[11:03:30] [Server thread/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:87]: Replaced INVOKESPECIAL for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
-[11:03:30] [Server thread/WARN] [bookshelf]: Could not load class net.darkhax.caliper.profiling.profilers.textures.ProfileTextureMap
-[11:03:30] [Server thread/ERROR] [bookshelf]: Catching
-java.lang.ClassNotFoundException: net.darkhax.caliper.profiling.profilers.textures.ProfileTextureMap
-	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_171]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_171]
-	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_171]
-	at java.lang.Class.forName(Class.java:264) ~[?:1.8.0_171]
-	at net.darkhax.bookshelf.util.AnnotationUtils.getAnnotations(AnnotationUtils.java:173) [AnnotationUtils.class:?]
-	at net.darkhax.caliper.profiling.ProfilerManager.init(ProfilerManager.java:18) [ProfilerManager.class:?]
-	at net.darkhax.caliper.Caliper.onConstruction(Caliper.java:38) [Caliper.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_171]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_171]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_171]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_171]
-	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:627) [FMLModContainer.class:?]
-	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source) ~[?:?]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_171]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_171]
-	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [minecraft_server.1.12.2.jar:?]
-	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [minecraft_server.1.12.2.jar:?]
-	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:218) [LoadController.class:?]
-	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:196) [LoadController.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_171]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_171]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_171]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_171]
-	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [minecraft_server.1.12.2.jar:?]
-	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [minecraft_server.1.12.2.jar:?]
-	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:135) [LoadController.class:?]
-	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:593) [Loader.class:?]
-	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:97) [FMLServerHandler.class:?]
-	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:332) [FMLCommonHandler.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_171]
-Caused by: net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer@5bdd5689 from coremod FMLCorePlugin
-	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:262) ~[forge-1.12.2-14.23.4.2707-universal.jar:?]
-	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) ~[launchwrapper-1.12.jar:?]
-	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) ~[launchwrapper-1.12.jar:?]
-	... 42 more
-Caused by: java.lang.RuntimeException: Attempted to load class net/darkhax/caliper/profiling/profilers/textures/ProfileTextureMap for invalid side SERVER
-	at net.minecraftforge.fml.common.asm.transformers.SideTransformer.transform(SideTransformer.java:62) ~[forge-1.12.2-14.23.4.2707-universal.jar:?]
-	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:258) ~[forge-1.12.2-14.23.4.2707-universal.jar:?]
-	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) ~[launchwrapper-1.12.jar:?]
-	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) ~[launchwrapper-1.12.jar:?]
-	... 42 more
-[11:03:31] [Server thread/ERROR] [FML]: The mod elevatorid appears to have an invalid event annotation EventHandler. This annotation can only apply to methods with recognized event arguments - it will not be called
-[11:03:31] [Server thread/ERROR] [FML]: The mod elevatorid appears to have an invalid event annotation EventHandler. This annotation can only apply to methods with recognized event arguments - it will not be called
+[15:22:19] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[15:22:19] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[15:22:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[15:22:19] [main/INFO] [FML]: Forge Mod Loader version 14.23.4.2707 for Minecraft 1.12.2 loading
+[15:22:19] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_171, running on Linux:amd64:4.15.0-24-generic, installed at /usr/lib/jvm/java-1.8-openjdk/jre
+[15:22:20] [main/INFO] [FML]: Searching /data/./mods for mods
+[15:22:20] [main/INFO] [FML]: Searching /data/./mods/1.12.2 for mods
+[15:22:20] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in AppleCore-mc1.12.2-3.1.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[15:22:20] [main/WARN] [FML]: The coremod AppleCore (squeek.applecore.AppleCore) is not signed!
+[15:22:20] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Aroma1997Core-1.12.2-1.3.0.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[15:22:20] [main/WARN] [FML]: The coremod aroma1997.core.coremod.CoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:22:20] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in astralsorcery-1.12.2-1.8.10.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[15:22:20] [main/WARN] [FML]: The coremod hellfirepvp.astralsorcery.core.AstralCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:22:20] [main/INFO] [FML]: [AstralCore] Initialized.
+[15:22:20] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in BetterFoliage-MC1.12-2.1.10.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[15:22:20] [main/WARN] [FML]: The coremod mods.betterfoliage.loader.BetterFoliageLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:22:20] [main/WARN] [FML]: The coremod BetterFoliageLoader (mods.betterfoliage.loader.BetterFoliageLoader) is not signed!
+[15:22:20] [main/INFO] [FML]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
+[15:22:20] [main/WARN] [FML]: The coremod com.bloodnbonesgaming.bnbgamingcore.core.BNBGamingCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:22:20] [main/INFO] [FML]: Loading tweaker codechicken.asm.internal.Tweaker from ChickenASM-1.12-1.0.2.7.jar
+[15:22:20] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12-0.3.0.15.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[15:22:20] [main/WARN] [FML]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:22:20] [main/WARN] [FML]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[15:22:20] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Farseek-1.12-2.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[15:22:20] [main/WARN] [FML]: The coremod farseek.core.FarseekCoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:22:20] [main/WARN] [FML]: The coremod FarseekCoreMod (farseek.core.FarseekCoreMod) is not signed!
+[15:22:20] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in foamfix-0.9.9.1-1.12.2-anarchy.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[15:22:20] [main/WARN] [FML]: The coremod pl.asie.foamfix.coremod.FoamFixCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:22:20] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.6.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[15:22:20] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:22:20] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[15:22:20] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.64-dev.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[15:22:20] [main/WARN] [FML]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:22:20] [main/WARN] [FML]: The coremod ivorius.ivtoolkit.IvToolkitLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:22:20] [main/WARN] [FML]: The coremod IvToolkit (ivorius.ivtoolkit.IvToolkitLoadingPlugin) is not signed!
+[15:22:20] [main/WARN] [FML]: The coremod micdoodle8.mods.miccore.MicdoodlePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:22:20] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
+[15:22:20] [main/ERROR] [FML]: The coremod api.player.forge.PlayerAPIPlugin is requesting minecraft version 1.12.1 and minecraft is 1.12.2. It will be ignored.
+[15:22:20] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Quark-r1.4-123.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[15:22:20] [main/WARN] [FML]: The coremod vazkii.quark.base.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:22:20] [main/WARN] [FML]: The coremod LoadingPlugin (vazkii.quark.base.asm.LoadingPlugin) is not signed!
+[15:22:20] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ResourceLoader-MC1.12.1-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[15:22:20] [main/WARN] [FML]: The coremod lumien.resourceloader.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:22:20] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in SmoothFont-1.12.2-1.15.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[15:22:20] [main/WARN] [FML]: The coremod bre.smoothfont.asm.CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:22:20] [main/WARN] [FML]: The coremod CorePlugin (bre.smoothfont.asm.CorePlugin) is not signed!
+[15:22:20] [main/WARN] [FML]: The coremod blusunrize.immersiveengineering.common.asm.IELoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:22:20] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:22:20] [main/INFO] [LaunchWrapper]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
+[15:22:20] [main/INFO] [LaunchWrapper]: Loading tweak class name codechicken.asm.internal.Tweaker
+[15:22:20] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[15:22:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:22:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:22:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:22:22] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[15:22:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:22:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:22:22] [main/INFO] [Aroma1997Core]: Finished data injection.
+[15:22:22] [main/INFO] [Aroma1997Core]: Finished data injection.
+[15:22:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:22:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:22:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:22:22] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:getASMTransformerClass:99]: Successfully Registered Transformer
+[15:22:22] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
+[15:22:22] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
+[15:22:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:22:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:22:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:22:22] [main/INFO] [LaunchWrapper]: Calling tweak class codechicken.asm.internal.Tweaker
+[15:22:22] [main/INFO] [STDOUT]: [codechicken.asm.internal.Tweaker:injectIntoClassLoader:30]: false
+[15:22:22] [main/INFO] [LaunchWrapper]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
+[15:22:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[15:22:22] [main/INFO] [FML]: [AstralTransformer] Loading patches...
+[15:22:22] [main/INFO] [FML]: [AstralTransformer] Initialized! Loaded 5 class patches!
+[15:22:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:22:23] [main/INFO] [BnBGamingCore]: Minecraft version is 1.12.2 and BNBGamingCore accepts versions 1.12, . It will be registered.
+[15:22:23] [main/INFO] [BnBGamingCore]: Minecraft version is 1.12.2 and BNBGamingCore accepts versions 1.12, . It will be registered.
+[15:22:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:22:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:22:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:22:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:22:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:22:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:22:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:22:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:22:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:22:23] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[15:22:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[15:22:23] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:110]: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
+[15:22:23] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:113]: Added INTERFACE: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
+[15:22:23] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:150]: Added METHOD: net.minecraft.world.World.foamfix_removeUnloadedEntities
+[15:22:23] [main/INFO] [FML]: [Quark ASM] Transforming WorldServer
+[15:22:23] [main/INFO] [FML]: [Quark ASM] Applying Transformation to method (Names [areAllPlayersAsleep, func_73056_e, g] Descriptor ()Z / ()Z)
+[15:22:23] [main/INFO] [FML]: [Quark ASM] Located Method, patching...
+[15:22:23] [main/INFO] [FML]: [Quark ASM] Located patch target node L0
+[15:22:23] [main/INFO] [FML]: [Quark ASM] Patch result: true
+[15:22:23] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.WorldServerRemovalPatch:apply:65]: Patched updateEntities in net/minecraft/world/WorldServer func_72939_s
+[15:22:24] [main/INFO] [FML]: [AstralTransformer] Transforming vp : net.minecraft.entity.EntityLivingBase with 2 patches!
+[15:22:24] [main/INFO] [FML]: [AstralTransformer] Applied patch PATCHKNOCKBACKEVENT
+[15:22:24] [main/INFO] [FML]: [AstralTransformer] Applied patch PATCHUPDATEELYTRA
+[15:22:24] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[15:22:24] [main/INFO] [BetterFps]: Patching net.minecraft.block.Block... (aow)
+[15:22:24] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:229]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[15:22:24] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:241]: Transforming net.minecraft.block.Block Finished.
+[15:22:25] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:126]: Spliced in METHOD: net.minecraft.block.state.BlockStateContainer.createState
+[15:22:25] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:126]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.equals
+[15:22:25] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:126]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.hashCode
+[15:22:25] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:173]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode
+[15:22:25] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:173]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode_calced
+[15:22:25] [main/INFO] [BetterFps]: Patching math utils with "RIVENS_HALF" algorithm
+[15:22:25] [main/INFO] [FML]: [AstralTransformer] Transforming aip : net.minecraft.item.ItemStack with 1 patches!
+[15:22:25] [main/INFO] [FML]: [AstralTransformer] Skipping PATCHMODIFYENCHANTMENTLEVELSTOOLTIP as it can't be applied for side SERVER
+[15:22:25] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:126]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.equals
+[15:22:25] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:126]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.hashCode
+[15:22:25] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:126]: Spliced in METHOD: net.minecraft.block.properties.PropertyInteger.hashCode
+[15:22:25] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:173]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode
+[15:22:25] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:173]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode_calced
+[15:22:25] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:126]: Spliced in METHOD: net.minecraft.tileentity.TileEntity.func_190559_a
+[15:22:25] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:126]: Spliced in METHOD: net.minecraft.block.BlockBed.func_189540_a
+[15:22:25] [main/INFO] [FML]: [Quark ASM] Transforming BlockPistonBase
+[15:22:25] [main/INFO] [FML]: [Quark ASM] Applying Transformation to method (Names [doMove, func_176319_a, a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z / (Lamu;Let;Lfa;Z)Z)
+[15:22:25] [main/INFO] [FML]: [Quark ASM] Located Method, patching...
+[15:22:25] [main/INFO] [FML]: [Quark ASM] Located patch target node ASTORE 11
+[15:22:25] [main/INFO] [FML]: [Quark ASM] Patch result: true
+[15:22:25] [main/INFO] [FML]: [Quark ASM] Applying Transformation to method (Names [canPush, func_185646_a, a] Descriptor (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;ZLnet/minecraft/util/EnumFacing;)Z / (Lawt;Lamu;Let;Lfa;ZLfa;)Z)
+[15:22:25] [main/INFO] [FML]: [Quark ASM] Located Method, patching...
+[15:22:25] [main/INFO] [FML]: [Quark ASM] Located patch target node INVOKEVIRTUAL aow.hasTileEntity (Lawt;)Z
+[15:22:25] [main/INFO] [FML]: [Quark ASM] Patch result: true
+[15:22:25] [main/INFO] [FML]: [Quark ASM] Transforming TileEntityPiston
+[15:22:25] [main/INFO] [FML]: [Quark ASM] Applying Transformation to method (Names [clearPistonTileEntity, func_145866_f, j] Descriptor ()V / ()V)
+[15:22:25] [main/INFO] [FML]: [Quark ASM] Located Method, patching...
+[15:22:25] [main/INFO] [FML]: [Quark ASM] Located patch target node INVOKEVIRTUAL amu.a (Let;Lawt;I)Z
+[15:22:25] [main/INFO] [FML]: [Quark ASM] Patch result: true
+[15:22:25] [main/INFO] [FML]: [Quark ASM] Applying Transformation to method (Names [update, func_73660_a, e] Descriptor ()V / ()V)
+[15:22:25] [main/INFO] [FML]: [Quark ASM] Located Method, patching...
+[15:22:25] [main/INFO] [FML]: [Quark ASM] Located patch target node INVOKEVIRTUAL amu.a (Let;Lawt;I)Z
+[15:22:25] [main/INFO] [FML]: [Quark ASM] Patch result: true
+[15:22:26] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityBeacon... (avh)
+[15:22:26] [main/INFO] [BetterFps]: Patching net.minecraft.block.BlockHopper... (arl)
+[15:22:26] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:75]: Replaced NEW for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
+[15:22:26] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:87]: Replaced INVOKESPECIAL for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
+[15:22:26] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityHopper... (avw)
+[15:22:27] [main/INFO] [FML]: [Quark ASM] Transforming EntityBoat
+[15:22:27] [main/INFO] [FML]: [Quark ASM] Applying Transformation to method (Names [attackEntityFrom, func_70097_a, a] Descriptor (Lnet/minecraft/util/DamageSource;F)Z / (Lur;F)Z)
+[15:22:27] [main/INFO] [FML]: [Quark ASM] Located Method, patching...
+[15:22:27] [main/INFO] [FML]: [Quark ASM] Located patch target node POP
+[15:22:27] [main/INFO] [FML]: [Quark ASM] Patch result: true
+[15:22:27] [main/INFO] [FML]: [Quark ASM] Applying Transformation to method (Names [onUpdate, func_70071_h_, B_] Descriptor ()V / ()V)
+[15:22:27] [main/INFO] [FML]: [Quark ASM] Located Method, patching...
+[15:22:27] [main/INFO] [FML]: [Quark ASM] Located patch target node L0
+[15:22:27] [main/INFO] [FML]: [Quark ASM] Patch result: true
+[15:22:28] [main/INFO] [BetterFps]: Patching net.minecraft.server.dedicated.DedicatedServer... (nz)
+[15:22:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[15:22:28] [Server thread/INFO] [FML]: MinecraftForge v14.23.4.2707 Initialized
+[15:22:28] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[15:22:28] [Server thread/INFO] [FML]: Replaced 1036 ore ingredients
+[15:22:29] [Server thread/INFO] [FML]: Searching /data/./mods for mods
+[15:22:29] [Server thread/INFO] [FML]: Searching /data/./mods/1.12.2 for mods
+[15:22:29] [Server thread/ERROR] [FML]: Unable to parse dependency for mod 'animalium' with dependency string 'after:BiomesOPlenty'. The modId 'BiomesOPlenty' must be all lowercase.
+[15:22:29] [Server thread/INFO] [FML]: Disabling mod antiqueatlasoverlay it is client side only.
+[15:22:29] [Server thread/WARN] [FML]: Mod aroma1997core is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.3.0.2
+[15:22:30] [Server thread/INFO] [FML]: Disabling mod betteradvancements it is client side only.
+[15:22:30] [Server thread/WARN] [FML]: Mod betterbuilderswands is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.11.1
+[15:22:30] [Server thread/INFO] [FML]: Disabling mod betterfoliage it is client side only.
+[15:22:30] [Server thread/WARN] [FML]: Mod cd4017be_lib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 6.2.4
+[15:22:30] [Server thread/INFO] [FML]: Disabling mod clienttweaks it is client side only.
+[15:22:30] [Server thread/WARN] [FML]: Mod codechickenlib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.1.8.341
+[15:22:30] [Server thread/INFO] [FML]: Disabling mod colouredtooltips it is client side only.
+[15:22:30] [Server thread/INFO] [FML]: Disabling mod controlling it is client side only.
+[15:22:30] [Server thread/WARN] [FML]: Mod cookingforblockheads is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 6.3.26
+[15:22:30] [Server thread/INFO] [FML]: Disabling mod ctgui it is client side only.
+[15:22:30] [Server thread/INFO] [FML]: Disabling mod ctm it is client side only.
+[15:22:30] [Server thread/INFO] [FML]: Disabling mod custommainmenu it is client side only.
+[15:22:30] [Server thread/WARN] [FML]: Mod cyclicmagic is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.15.8
+[15:22:31] [Server thread/INFO] [FML]: Disabling mod defaultoptions it is client side only.
+[15:22:31] [Server thread/WARN] [FML]: Mod emberroot is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.3.7
+[15:22:31] [Server thread/INFO] [FML]: Disabling mod enchdesc it is client side only.
+[15:22:31] [Server thread/WARN] [FML]: Mod enderstorage is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.4.3.130
+[15:22:31] [Server thread/INFO] [FML]: Disabling mod fbp it is client side only.
+[15:22:31] [Server thread/WARN] [FML]: Mod farmingforblockheads is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.1.17
+[15:22:31] [Server thread/WARN] [FML]: Mod farseek is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.3
+[15:22:31] [Server thread/WARN] [FML]: Mod microblockcbe is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.4.2.58
+[15:22:31] [Server thread/WARN] [FML]: Mod forgemultipartcbe is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.4.2.58
+[15:22:31] [Server thread/WARN] [FML]: Mod minecraftmultipartcbe is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.4.2.58
+[15:22:31] [Server thread/INFO] [FML]: Mod galacticrafttweaker is missing the required element 'name'. Substituting galacticrafttweaker
+[15:22:31] [Server thread/WARN] [FML]: Mod improvedbackpacks is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-1.2.0.3
+[15:22:31] [Server thread/WARN] [FML]: Mod indlog is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.3
+[15:22:32] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.40.824
+[15:22:32] [Server thread/INFO] [FML]: Disabling mod jmapstages it is client side only.
+[15:22:32] [Server thread/INFO] [FML]: Disabling mod justenoughpetroleum it is client side only.
+[15:22:32] [Server thread/WARN] [FML]: Mod kleeslabs is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 5.4.10
+[15:22:32] [Server thread/INFO] [FML]: Disabling mod mousetweaks it is client side only.
+[15:22:32] [Server thread/INFO] [FML]: Disabling mod neat it is client side only.
+[15:22:32] [Server thread/INFO] [FML]: Disabling mod norecipebook it is client side only.
+[15:22:32] [Server thread/WARN] [FML]: Mod samsocean is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.1
+[15:22:32] [Server thread/WARN] [FML]: Mod oreexcavation is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.4.118
+[15:22:32] [Server thread/ERROR] [FML]: Unable to parse dependency for mod 'playerskins' with dependency string 'after:BiomesOPlenty'. The modId 'BiomesOPlenty' must be all lowercase.
+[15:22:32] [Server thread/WARN] [FML]: Mod prospectors is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.1
+[15:22:32] [Server thread/WARN] [FML]: Mod realdrops is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.12
+[15:22:32] [Server thread/INFO] [FML]: Disabling mod resourceloader it is client side only.
+[15:22:32] [Server thread/WARN] [FML]: Mod storagenetwork is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-1.2.4
+[15:22:32] [Server thread/INFO] [FML]: Disabling mod smoothfont it is client side only.
+[15:22:33] [Server thread/WARN] [FML]: Mod streams is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.4.4
+[15:22:33] [Server thread/INFO] [FML]: Disabling mod tipthescales it is client side only.
+[15:22:33] [Server thread/INFO] [FML]: Disabling mod toastcontrol it is client side only.
+[15:22:33] [Server thread/WARN] [FML]: Mod translocators is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.5.0.70
+[15:22:33] [Server thread/INFO] [FML]: Disabling mod reauth it is client side only.
+[15:22:33] [Server thread/INFO] [FML]: Forge Mod Loader has identified 239 mods to load
+[15:22:33] [Server thread/INFO] [FML]: Found mod(s) [pneumaticcraft] containing declared API package team.chisel.ctm.api (owned by ctm) without associated API reference
+[15:22:33] [Server thread/INFO] [FML]: Found mod(s) [modularrouters] containing declared API package team.chisel.ctm.api (owned by ctm) without associated API reference
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for movillages: assets/movillages/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for actuallybaubles: assets/actuallybaubles/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for examplemod: assets/examplemod/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for appleskin: assets/appleskin/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for armoreablemobs: assets/armoreablemobs/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for aroma1997core: assets/aroma1997core/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for buildcraftbuilders: assets/buildcraftbuilders/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for buildcraftcore: assets/buildcraftcore/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for buildcraftlib: assets/buildcraftlib/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for buildcraftfactory: assets/buildcraftfactory/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for buildcraftrobotics: assets/buildcraftrobotics/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for buildcraftsilicon: assets/buildcraftsilicon/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for buildcrafttransport: assets/buildcrafttransport/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for caliper: assets/caliper/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for chameleon: assets/chameleon/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for clumps: assets/clumps/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for codechickenlib: assets/codechickenlib/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for contenttweaker: assets/contenttweaker/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for craftstudioapi: assets/craftstudioapi/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for crafttweaker: assets/crafttweaker/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for crafttweakerjei: assets/crafttweakerjei/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for despawningspawners: assets/despawningspawners/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for farseek: assets/farseek/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for fastbench: assets/fastbench/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for foamfix: assets/foamfix/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for microblockcbe: assets/microblockcbe/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for forgemultipartcbe: assets/forgemultipartcbe/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for minecraftmultipartcbe: assets/minecraftmultipartcbe/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for galacticrafttweaker: assets/galacticrafttweaker/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for gobblecore: assets/gobblecore/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for harvest: assets/harvest/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for incontrol: assets/incontrol/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for kleeslabs: assets/kleeslabs/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for lttweaker: assets/lttweaker/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for mantle: assets/mantle/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for mcjtylib_ng: assets/mcjtylib_ng/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for mercurius: assets/mercurius/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for mjrlegendslib: assets/mjrlegendslib/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for mobstages: assets/mobstages/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for modtweaker: assets/modtweaker/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for morpheus: assets/morpheus/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for mpbasic: assets/mpbasic/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for mtlib: assets/mtlib/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for multiblockstages: assets/multiblockstages/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for mystagradcompat: assets/mystagradcompat/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for noworldgen5you: assets/noworldgen5you/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for samsocean: assets/samsocean/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for orestages: assets/orestages/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for placebo: assets/placebo/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for quickleafdecay: assets/quickleafdecay/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for realdrops: assets/realdrops/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for redstoneflux: assets/redstoneflux/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for roadrunner: assets/roadrunner/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for sevtweaks: assets/sevtweaks/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for spatialservermod: assets/spatialservermod/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for stg: assets/stg/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for streams: assets/streams/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for sasit: assets/sasit/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for teslacorelib_registries: assets/teslacorelib_registries/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for thirstybottles: assets/thirstybottles/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for tinkerstages: assets/tinkerstages/lang/en_us.lang
+[15:22:33] [Server thread/WARN] [FML]: Missing English translation for togetherforever: assets/togetherforever/lang/en_us.lang
+[15:22:34] [Server thread/WARN] [FML]: Missing English translation for tothebatpoles: assets/tothebatpoles/lang/en_us.lang
+[15:22:34] [Server thread/WARN] [FML]: Missing English translation for triumph: assets/triumph/lang/en_us.lang
+[15:22:34] [Server thread/WARN] [FML]: Missing English translation for universalmodifiers: assets/universalmodifiers/lang/en_us.lang
+[15:22:34] [Server thread/WARN] [FML]: Missing English translation for wailastages: assets/wailastages/lang/en_us.lang
+[15:22:34] [Server thread/WARN] [FML]: Missing English translation for wanionlib: assets/wanionlib/lang/en_us.lang
+[15:22:34] [Server thread/WARN] [FML]: Missing English translation for watercontrolextreme: assets/watercontrolextreme/lang/en_us.lang
+[15:22:34] [Server thread/WARN] [FML]: Missing English translation for wildcrops: assets/wildcrops/lang/en_us.lang
+[15:22:34] [Server thread/WARN] [FML]: Missing English translation for ynot: assets/ynot/lang/en_us.lang
+[15:22:34] [Server thread/INFO] [FML]: FML has found a non-mod file BetterAdvancements-1.12.2-0.0.7.42.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:22:34] [Server thread/INFO] [FML]: FML has found a non-mod file BetterFoliage-MC1.12-2.1.10.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:22:34] [Server thread/INFO] [FML]: FML has found a non-mod file ClientTweaks_1.12.2-3.1.8.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:22:34] [Server thread/INFO] [FML]: FML has found a non-mod file ColouredTooltips-1.12.2-1.0.4.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:22:34] [Server thread/INFO] [FML]: FML has found a non-mod file Controlling-3.0.6.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:22:34] [Server thread/INFO] [FML]: FML has found a non-mod file CTM-MC1.12-0.3.0.15.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:22:34] [Server thread/INFO] [FML]: FML has found a non-mod file CustomMainMenu-MC1.12.2-2.0.8.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:22:34] [Server thread/INFO] [FML]: FML has found a non-mod file DefaultOptions_1.12.2-9.2.7.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:22:34] [Server thread/INFO] [FML]: FML has found a non-mod file EnchantmentDescriptions-1.12.2-1.1.8.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:22:34] [Server thread/INFO] [FML]: FML has found a non-mod file FancyBlockParticles-1.12.x-2.4.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:22:34] [Server thread/INFO] [FML]: FML has found a non-mod file JourneyMapStages-1.12.2-1.0.3.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:22:34] [Server thread/INFO] [FML]: FML has found a non-mod file JustEnoughPetroleum-0.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:22:34] [Server thread/INFO] [FML]: FML has found a non-mod file MouseTweaks-2.8-mc1.12.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:22:34] [Server thread/INFO] [FML]: FML has found a non-mod file Neat 1.4-15.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:22:34] [Server thread/INFO] [FML]: FML has found a non-mod file noRecipeBook_v1.2.2formc1.12.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:22:34] [Server thread/INFO] [FML]: FML has found a non-mod file ResourceLoader-MC1.12.1-1.5.3.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:22:34] [Server thread/INFO] [FML]: FML has found a non-mod file SmoothFont-1.12.2-1.15.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:22:34] [Server thread/INFO] [FML]: FML has found a non-mod file TipTheScales-1.12.2-1.0.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:22:34] [Server thread/INFO] [FML]: FML has found a non-mod file Toast Control-1.12.2-1.6.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:22:34] [Server thread/INFO] [FML]: FML has found a non-mod file reauth-3.6.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
