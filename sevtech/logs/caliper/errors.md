@@ -45,21 +45,21 @@ Recipe: actuallyadditions:potion_ring_charging Class: public class de.ellpeck.ac
 Recipe: actuallyadditions:bio_mash Class: public class de.ellpeck.actuallyadditions.mod.crafting.RecipeBioMash
 Recipe: quark:map_pinning Class: public class vazkii.quark.misc.recipe.MapPinningRecipe
 Recipe: immersivepetroleum:projector Class: public class flaxbeard.immersivepetroleum.common.SchematicCraftingHandler
-Recipe: betterwithmods:siding_rock Class: public class betterwithmods.module.gameplay.miniblocks.MiniRecipe
-Recipe: betterwithmods:moulding_rock Class: public class betterwithmods.module.gameplay.miniblocks.MiniRecipe
-Recipe: betterwithmods:corner_rock Class: public class betterwithmods.module.gameplay.miniblocks.MiniRecipe
-Recipe: betterwithmods:siding_clay Class: public class betterwithmods.module.gameplay.miniblocks.MiniRecipe
-Recipe: betterwithmods:moulding_clay Class: public class betterwithmods.module.gameplay.miniblocks.MiniRecipe
-Recipe: betterwithmods:corner_clay Class: public class betterwithmods.module.gameplay.miniblocks.MiniRecipe
-Recipe: betterwithmods:siding_wood Class: public class betterwithmods.module.gameplay.miniblocks.MiniRecipe
-Recipe: betterwithmods:moulding_wood Class: public class betterwithmods.module.gameplay.miniblocks.MiniRecipe
-Recipe: betterwithmods:corner_wood Class: public class betterwithmods.module.gameplay.miniblocks.MiniRecipe
 Recipe: betterwithmods:siding_iron Class: public class betterwithmods.module.gameplay.miniblocks.MiniRecipe
 Recipe: betterwithmods:moulding_iron Class: public class betterwithmods.module.gameplay.miniblocks.MiniRecipe
 Recipe: betterwithmods:corner_iron Class: public class betterwithmods.module.gameplay.miniblocks.MiniRecipe
 Recipe: betterwithmods:siding_ground Class: public class betterwithmods.module.gameplay.miniblocks.MiniRecipe
 Recipe: betterwithmods:moulding_ground Class: public class betterwithmods.module.gameplay.miniblocks.MiniRecipe
 Recipe: betterwithmods:corner_ground Class: public class betterwithmods.module.gameplay.miniblocks.MiniRecipe
+Recipe: betterwithmods:siding_clay Class: public class betterwithmods.module.gameplay.miniblocks.MiniRecipe
+Recipe: betterwithmods:moulding_clay Class: public class betterwithmods.module.gameplay.miniblocks.MiniRecipe
+Recipe: betterwithmods:corner_clay Class: public class betterwithmods.module.gameplay.miniblocks.MiniRecipe
+Recipe: betterwithmods:siding_wood Class: public class betterwithmods.module.gameplay.miniblocks.MiniRecipe
+Recipe: betterwithmods:moulding_wood Class: public class betterwithmods.module.gameplay.miniblocks.MiniRecipe
+Recipe: betterwithmods:corner_wood Class: public class betterwithmods.module.gameplay.miniblocks.MiniRecipe
+Recipe: betterwithmods:siding_rock Class: public class betterwithmods.module.gameplay.miniblocks.MiniRecipe
+Recipe: betterwithmods:moulding_rock Class: public class betterwithmods.module.gameplay.miniblocks.MiniRecipe
+Recipe: betterwithmods:corner_rock Class: public class betterwithmods.module.gameplay.miniblocks.MiniRecipe
 Recipe: jaff:rod_bait_recipe Class: public class com.tmtravlr.jaff.RecipeRodBait# Bad Version
 
 The version number @version@ is a placeholder. If a mod has this version number
